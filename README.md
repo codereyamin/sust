@@ -20,7 +20,7 @@ Collection of Shahjalal University of Science and Technologyl websites, resource
 
 ## Try SUST ?
 
-Android: [Download sust.apk](https://github.com/codereyamin/sust/apk/apk-release.apk)
+Android: [Download sust.apk](https://github.com/codereyamin/sust/main/apk/apk-release.apk)
 
 
 ## Developer
