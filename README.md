@@ -13,7 +13,7 @@ Collection of Shahjalal University of Science and Technologyl websites, resource
 
 ## Screenshots
 
-<img src="assets/Screenshots/Screenshot_1.jpg" width="256"><img src="assets/Screenshots/Screenshot_2.jpg" width="256"><img src="assets/Screenshots/Screenshot_3.jpg" width="256"><img src="assets/Screenshots/Screenshot_4.jpg" width="256">
+<img src="assets/Screenshots/Screenshot_1.jpg" width="256"> <img src="assets/Screenshots/Screenshot_2.jpg" width="256"> <img src="assets/Screenshots/Screenshot_3.jpg" width="256">  <img src="assets/Screenshots/Screenshot_4.jpg" width="256">
 
 
 
